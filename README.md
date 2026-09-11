@@ -72,4 +72,3 @@ I am currently looking for a Junior QA Tester / Junior QA Engineer opportunity w
 
 📫 Contact
 LinkedIn: https://www.linkedin.com/feed/
-GitHub: github.com/RosuMadalin
