@@ -65,7 +65,7 @@ Tools: Git, GitHub, VS Code
  - Playwright Test Automation;
  - SQL for QA;
  - Software Testing Best Practices.
- - 
+
 🎯 Career Goal
 
 I am currently looking for a Junior QA Tester / Junior QA Engineer opportunity where I can apply my technical background, analytical thinking, attention to detail and problem-solving skills while continuing to develop as a QA professional.
