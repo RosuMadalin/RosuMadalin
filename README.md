@@ -51,7 +51,7 @@ The project focuses on practical software testing activities, including:
  - SQL validation;
  - API testing with Postman;
  - Jira workflow and defect tracking.
- - 
+
 🛠️ Tools & Technologies
 
 QA: Manual Testing, API Testing, SQL, Jira, Postman, Playwright
