@@ -1,4 +1,5 @@
 Hi, I'm Mădălin Roșu 👋
+
 Junior QA Tester | Manual Testing | SQL | API Testing
 
 I have a technical engineering background, with experience in IT Service Desk and production environments, and I am currently transitioning into software testing.
