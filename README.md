@@ -2,9 +2,7 @@ Hi, I'm Mădălin Roșu 👋
 
 Junior QA Tester | Manual Testing | SQL | API Testing
 
-I have a technical engineering background, with experience in IT Service Desk and production environments, and I am currently transitioning into software testing.
-
-I am currently transitioning into software testing and building practical QA experience through personal projects focused on manual testing, API testing, SQL, test documentation, and test management.
+I have a technical engineering background, with experience in IT Service Desk and production environments, and I'm now transitioning into software testing — building practical QA experience through personal projects focused on manual testing, API testing, SQL, test documentation, and test management.
 
 🧠 Core Strengths
  - Analytical thinking and problem-solving;
