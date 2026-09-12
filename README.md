@@ -72,4 +72,4 @@ Tools: Git, GitHub, VS Code
 I am currently looking for a Junior QA Tester / Junior QA Engineer opportunity where I can apply my technical background, analytical thinking, attention to detail and problem-solving skills while continuing to develop as a QA professional.
 
 📫 Contact
-LinkedIn: https://www.linkedin.com/feed/
+LinkedIn: https://www.linkedin.com/in/madalin-rosu-242281347/
