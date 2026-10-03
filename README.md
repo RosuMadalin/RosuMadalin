@@ -1,4 +1,4 @@
-Hi, I'm Mădălin Roșu 👋
+Hi, I'm Madalin Rosu 👋
 
 Junior QA Tester | Manual Testing | SQL | API Testing
 
